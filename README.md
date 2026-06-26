@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<# KUNDU SRINIVAS
+KUNDU SRINIVAS
 
 📧 kundusrinivas006@gmail.com | 📱 +91 8688385184 | 🔗 [LinkedIn](https://linkedin.com/in/ksrinivas06) | 🐙 [GitHub](https://github.com/Srinivaas006)
 
