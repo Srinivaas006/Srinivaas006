@@ -24,7 +24,7 @@ Full Stack Developer  ·  AI Enthusiast  ·  B.Tech CSE '27
 I'm a third-year CS student who builds things — REST APIs, mobile apps, AI tools. I care about clean architecture and shipping things that actually work. Currently exploring AI-native systems and distributed backend design.
 
 - 🎓 Aditya Engineering College · **8.75 CGPA**
-- 💼 Ex-MERN Intern @ **Aim Technologies, Kakinada**
+- 💼 Worked as MERN Intern @ **Aim Technologies, Kakinada**
 - 🔭 Currently building smarter dev tools with LLMs
 - 📍 Based in Kakinada, Andhra Pradesh
 
